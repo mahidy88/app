@@ -1,0 +1,252 @@
+
+header{
+    background-image: url(background/comming-soon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+
+.navbar{
+    background:whitesmoke;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.nav-link:hover{
+    color: #46c3db
+}
+.link-1{
+    color:#46c3db
+}
+
+.dropdown-link{
+    text-decoration: none;
+    color:black
+}
+
+.slider-details{
+    margin-top: 90px;
+}
+
+
+.slider-title h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color: #46c3db;
+}
+
+.slider-info{
+    font-family: 'Georama', sans-serif;
+    margin-bottom: 20px;
+    color:#46c3db ;
+
+}
+
+.slider-btn{
+    font-family: 'Georama', sans-serif;
+
+}
+
+
+.design-details{
+    background: #46c3db;
+    border-radius: 7px;
+    box-shadow: 5px 3px 3px   ;
+}
+
+.design-icon{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    color: white;
+}
+
+.design-title{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.design-info{
+    font-family: 'Georama', sans-serif;
+    color: white;
+}
+
+.overview-title{
+    font-family: 'Hahmlet', serif;
+    margin-bottom: 18px;
+
+
+}
+.overview-info{
+    font-family: 'Georama', sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+
+.overview-info2{
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.overview-img2{
+    width:50px;
+}
+
+
+cite{
+    margin-left: 10px;
+}
+
+
+.lifestyle-title{
+    font-family: 'Hahmlet', serif;
+    font-weight: 300;
+    margin-bottom: 15px;
+
+}
+
+.lifestyle-info{
+    font-family: 'Georama', sans-serif;
+    font-size: 18px;
+
+}
+
+
+.box-icon{  
+      color:#46c3db ;
+      margin-bottom: 5px;
+    font-size: 25px;
+}
+
+
+.box-title{
+    font-family: 'Hahmlet', serif;
+    font-weight: 300;
+}
+
+.box-info{
+    font-family: 'Georama', sans-serif;
+
+}
+
+
+.lifestyle-box{
+    background: whitesmoke;
+    box-shadow: 2px 2px 3px;
+    border-radius: 5px;
+}
+
+.promo-video{
+    background-image: url(background/promo-video-back.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 30px;
+    margin-bottom: 30px;
+}
+
+.promo-title{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 15px;
+    color: white;
+    font-weight: 300;
+}
+
+.promo-info{
+    font-family: 'Georama', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.promo-icon{
+    font-size: 120px;
+    color: white;
+    margin-top: 30px;
+}
+
+.carousel-info{
+    background: whitesmoke;
+    padding: 30px 20px;
+    border-radius: 6px;
+}    
+
+.info{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+
+}
+cite{    
+    font-style: italic;
+}
+
+.caro-btn{
+    background: hotpink;
+}
+
+.time-details{
+    background:#2f89fc;
+    padding-bottom: 50px;
+}
+
+.time-title{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 15px;
+    color: white;
+    font-weight: 300;
+}
+
+.time-info{
+    font-family: 'Georama', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.time-icon{
+    color:white;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.btn1{
+    margin-right: 20px;
+    border:1px solid white;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.footer-icon{    
+    color:white;
+    font-size: 30px;
+}
+
+.footer-icon:hover{
+    color: #46c3db;
+}
+
+.link2{
+    text-decoration: none;
+    color:gray;
+    margin-bottom: 5px;
+}
+
+.link2:hover{
+    color:white
+}
